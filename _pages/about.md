@@ -18,16 +18,7 @@ My research interests include:
 Publications
 ======
 
-<ul>
-<li>
-<b> </b><br>
-<i> <br>
-</li>
-<li>
-<b> </b><br>
-<i> 
-</li>
-</ul>
+
 
 Experience
 ======
