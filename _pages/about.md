@@ -1,98 +1,66 @@
+---
+permalink: /
+title: "Xianglong Guo   「郭翔龙」"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-# Xianglong Guo                                                                                                                                
-Email: [21051028@buaa.edu.cn/gxl2955839148@gmail.com](21051028@buaa.edu.cn/gxl2955839148@gmail.com)  
-Mobile: +86-180-928-62091                                                                                   
+Welcome to my homepage!
 
+I am a senior undergraduate student in the Department of Engineering Mechanics at BeiHang University. I am currently working on the research of deep learning-based Digital Image Correlation (DIC) for local displacement measurement. Previously, I worked on the problem of heat haze effects in DIC, exploring defogging methods using both traditional techniques and deep learning.
 
+My research interests include:
+* Deep learning-based DIC network for local displacement and strain measurement.
+* Optimizing deep learning models for real-time image analysis.
 
- 
+Publications
+======
 
-## Education
-- **BeiHang University**                                                            Sep. 2021 - Jun. 2025 (expected)
-*Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)*                     *Beijing, China*
-    ------------------------------------------------------------------------------- ----------------------------------
-- **GPA: 88.5/100 Rank: 5/29**\
-- **Courses**: Mathematical Analysis for Mathematical Sciences (94),
-Fundamental Physics (100), Data Structures and Programming (92),
-Computing Method (93), Water Wave Equation and Nonlinear Integrable
-system (92), Automatic Control Theory (94), Computational Soild
-Mechanics (88), Deep Learning (94), Mechanics of Composite Material
-(92).
+<ul>
+<li>
+<b>Research on Heat Haze Effects in Digital Image Correlation.</b><br>
+<i>Xianglong Guo, Advisor: Prof. [Advisor's Name]</i><br>
+Preprint, 2024.<br>
+</li>
+<li>
+<b>Deep Learning-based DIC Network for Local Displacement Measurement.</b><br>
+<i>Xianglong Guo, Advisor: Prof. [Advisor's Name]</i><br>
+Conference paper under review, 2024.<br>
+</li>
+</ul>
 
-## Research Interests
+Experience
+======
 
--   Formerly, I have been working on the problem of **heat haze effects
-    with Digital Image Correlation (DIC)**, which includes the study of
-    how to dehaze,the effects of traditional dehaze algorithm and the
-    mothods based on deep learning.
+<ul>
+<li>
+<b>Samsung Inc. (SAIT - Samsung Advanced Institute of Technology)</b>, Jun. 2023 - Sep. 2023<br>
+<i>Computer Vision Algorithm Engineer Intern, supervised by M.E. Yunfeng Gong</i><br>
+Worked on detection models for autonomous driving and accelerated model inference using quantization and pruning.<br>
+</li>
 
--   Recently, I have been working on a project of **DeepLearning-based
-    DIC network for local displacement measurement**, which includes
-    establishing a benchmark for optical flow model used in DIC.
+<li>
+<b>BeiHang University</b>, Sep. 2021 - Present<br>
+<i>Research Assistant</i><br>
+Focused on deep learning-based Digital Image Correlation for local displacement and strain measurement.<br>
+</li>
+</ul>
 
--   I am also strongly interested in **Computer vision for science**,
-    actively looking for opportunities to work on projects related to
-    it.
+Services
+======
+* Volunteer in academic seminars at BeiHang University.
 
-## Research Experience
+Awards
+======
+* First Prize in National Physics Competition for college students in China (2023).
+* First Provincial-level Prize in Chinese Physics Olympiad (2020).
+* Second Prize in National Mathematical Competition for college students in China (2023).
+* Multiple prizes in the China Undergraduate Physics Tournament (2022 & 2023).
 
-- **BeiHang University**                                                 Nov. 2022 - present
-      *Research Assistant, School of Aeronautic Science and Engineering*        *Beijing, China*
-
-
-    **Advisor: Prof. Bing Pan & Prof. Liping Yu**
-    --------------------------------------------------------------------------- -----------------------
-  -    Benchmark the performance of various traditional physical
-        defogging methods and deep learning defogging methods in the
-        thermal fog effect, and test whether the defogging method is
-        effective in the DIC field.
-
- -    Learn the DeepLearning-based DIC network for local displacement
-        and strain measurement, and optimize the methods of it.
-
-## Internship Experience
-
--   **Samsung Inc. (SAIT - Samsung Advanced Institute of Technology (SRCX))**     Jun. 2023 - Sep. 2023
-      *Computer Vision Algorithm Engineer*                                                 *Xi'an, China*
-
-
-    **Advisor: M.E. Yunfeng Gong**
-    ------------------------------------------------------------------------- -----------------------
-  -    Search for a network of detection Models in Autonomous Driving.
-
-  -    Use quantization or pruning to accelerate model inference on
-        AGX.
-
-## Honors and Awards
-
--    First Prize in National Physics Competition for college student in
-    China (2023)
-
--    First Provincial-level Prize in Chinese Physics Olympiad
-    (CPHO) (2020)
-
--    Second Prize in National Mathematical Competition for college
-    student in China (2023)
-
--    Second Prize and Thrid Prize in China Undergraduate Physics
-    Tournament (2022 & 2023)
-
--    Special Prize and Thrid Prize in China North China Regional
-    Competition Undergraduate Physics Tournament (2023 & 2022)
-
--    Third Prize in The 14th Zhou Peiyuan's Competition of Mechanics for
-    College Students in China (2023)
-
--    Study Excellence Scholarship Second Prize (2022 & 2023)
-
--    Discipline Competition Scholarship Special Prize and First prize
-    (2023 & 2022)
-
-## Skills Summary
-
--    **Languages**: C++, Python, Matlab, Mathematica
-
--    **Tools**: Git, Visual Studio Code, Ansys Mechanical APDL, Ansys
-    fluid, SoildWorks, Catia, Markdown
-
--    **Libraries**: PyTorch, NumPy, Matplotlib, TensorRT
+Skills
+======
+* **Languages**: C++, Python, Matlab, Mathematica  
+* **Tools**: Git, Ansys, SolidWorks, Visual Studio Code  
+* **Libraries**: PyTorch, NumPy, TensorRT
