@@ -64,9 +64,3 @@ Awards
 -    Discipline Competition Scholarship Special Prize and First prize
     (2023 & 2022)
 
-
-Skills
-======
-* **Languages**: C++, Python, Matlab, Mathematica  
-* **Tools**: Git, Ansys, SolidWorks, Visual Studio Code  
-* **Libraries**: PyTorch, NumPy, TensorRT
