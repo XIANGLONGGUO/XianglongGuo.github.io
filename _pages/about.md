@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xianglong Guo   「郭翔龙」"
+title: "Xianglong Guo   「郭相隆」"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a senior undergraduate student in the Department of Engineering Mechanics at BeiHang University. I am currently working on the research of deep learning-based Digital Image Correlation (DIC) for local displacement measurement. Previously, I worked on the problem of heat haze effects in DIC, exploring defogging methods using both traditional techniques and deep learning.
+I am a senior undergraduate student in the School of Aeronautic Science and Engineering at Beijing University of Aeronautics and Astronautics. I am currently working on the research of deep learning-based Digital Image Correlation (DIC) for local displacement measurement. Previously, I worked on the problem of heat haze effects in DIC, exploring defogging methods using both traditional techniques and deep learning.
 
 My research interests include:
 * Deep learning-based DIC network for local displacement and strain measurement.
@@ -20,14 +20,12 @@ Publications
 
 <ul>
 <li>
-<b>Research on Heat Haze Effects in Digital Image Correlation.</b><br>
-<i>Xianglong Guo, Advisor: Prof. [Advisor's Name]</i><br>
-Preprint, 2024.<br>
+<b> </b><br>
+<i> <br>
 </li>
 <li>
-<b>Deep Learning-based DIC Network for Local Displacement Measurement.</b><br>
-<i>Xianglong Guo, Advisor: Prof. [Advisor's Name]</i><br>
-Conference paper under review, 2024.<br>
+<b> </b><br>
+<i> 
 </li>
 </ul>
 
@@ -42,22 +40,39 @@ Worked on detection models for autonomous driving and accelerated model inferenc
 </li>
 
 <li>
-<b>BeiHang University</b>, Sep. 2021 - Present<br>
+<b>BeiHang University</b>, Sep. 2022 - Present<br>
 <i>Research Assistant</i><br>
 Focused on deep learning-based Digital Image Correlation for local displacement and strain measurement.<br>
 </li>
 </ul>
 
-Services
-======
-* Volunteer in academic seminars at BeiHang University.
 
 Awards
 ======
-* First Prize in National Physics Competition for college students in China (2023).
-* First Provincial-level Prize in Chinese Physics Olympiad (2020).
-* Second Prize in National Mathematical Competition for college students in China (2023).
-* Multiple prizes in the China Undergraduate Physics Tournament (2022 & 2023).
+
+-    First Prize in National Physics Competition for college student in
+    China (2023)
+
+-    First Provincial-level Prize in Chinese Physics Olympiad
+    (CPHO) (2020)
+
+-    Second Prize in National Mathematical Competition for college
+    student in China (2023)
+
+-    Second Prize and Thrid Prize in China Undergraduate Physics
+    Tournament (2022 & 2023)
+
+-    Special Prize and Thrid Prize in China North China Regional
+    Competition Undergraduate Physics Tournament (2023 & 2022)
+
+-    Third Prize in The 14th Zhou Peiyuan's Competition of Mechanics for
+    College Students in China (2023)
+
+-    Study Excellence Scholarship Second Prize (2022 & 2023)
+
+-    Discipline Competition Scholarship Special Prize and First prize
+    (2023 & 2022)
+
 
 Skills
 ======
