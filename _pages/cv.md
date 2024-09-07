@@ -8,19 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 # Xianglong Guo                                                                                                                                
 Email: [21051028@buaa.edu.cn/gxl2955839148@gmail.com](21051028@buaa.edu.cn/gxl2955839148@gmail.com)  
 Mobile: +86-180-928-62091                                                                                   
-
-
-
- 
-
 ## Education
 - **BeiHang University**                                                            Sep. 2021 - Jun. 2025 (expected)
 *Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)*                     *Beijing, China*
-    ------------------------------------------------------------------------------- ----------------------------------
-- **GPA: 88.5/100 Rank: 5/29**\
+- **GPA: 88.6/100 Rank: 5/29**
 - **Courses**: Mathematical Analysis for Mathematical Sciences (94),
 Fundamental Physics (100), Data Structures and Programming (92),
 Computing Method (93), Water Wave Equation and Nonlinear Integrable
@@ -50,8 +45,8 @@ Mechanics (88), Deep Learning (94), Mechanics of Composite Material
 
 
     **Advisor: Prof. Bing Pan & Prof. Liping Yu**
-    --------------------------------------------------------------------------- -----------------------
-  -    Benchmark the performance of various traditional physical
+
+-    Benchmark the performance of various traditional physical
         defogging methods and deep learning defogging methods in the
         thermal fog effect, and test whether the defogging method is
         effective in the DIC field.
@@ -66,7 +61,7 @@ Mechanics (88), Deep Learning (94), Mechanics of Composite Material
 
 
     **Advisor: M.E. Yunfeng Gong**
-    ------------------------------------------------------------------------- -----------------------
+
   -    Search for a network of detection Models in Autonomous Driving.
 
   -    Use quantization or pruning to accelerate model inference on
