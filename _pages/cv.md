@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Xianglong Guo                                                                                                                                
-Email: [gxl2955839148@gmail.com](gxl2955839148@gmail.com)  & [21051028@buaa.edu.cn](21051028@buaa.edu.cn)
-Mobile: +86-180-928-62091                                                                                   
+- Email: [gxl2955839148@gmail.com](gxl2955839148@gmail.com)&[21051028@buaa.edu.cn](21051028@buaa.edu.cn)
+- Mobile: +86-180-928-62091                                                                                   
 ## Education
 - **BeiHang University**                                                            Sep. 2021 - Jun. 2025 (expected)
 *Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)*                     *Beijing, China*
