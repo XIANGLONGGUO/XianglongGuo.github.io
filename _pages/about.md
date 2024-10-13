@@ -13,7 +13,8 @@ I am a senior undergraduate student in the School of Aeronautic Science and Engi
 
 My research interests include:
 * Deep learning-based DIC network for local displacement and strain measurement.
-* Optimizing deep learning models for real-time image analysis.
+* Large Models and Multimodality
+* AI for science
 
 Publications
 ======
@@ -22,6 +23,12 @@ Publications
 
 Experience
 ======
+<li>
+<b>BeiHang University</b>, Sep. 2021 - Jun. 2025(expected)<br>
+<i>Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)</i><br>
+**GPA: 88.6/100 Rank: 5/29**<br>
+</li>
+</ul>
 
 <ul>
 <li>
