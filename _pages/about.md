@@ -26,7 +26,7 @@ Experience
 <li>
 <b>BeiHang University</b>, Sep. 2021 - Jun. 2025(expected)<br>
 <i>Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)</i><br>
-**GPA: 88.6/100 Rank: 5/29**<br>
+GPA: 88.6/100 Rank: 5/29**<br>
 </li>
 </ul>
 
