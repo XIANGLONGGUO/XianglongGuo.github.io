@@ -28,7 +28,7 @@ Experience
 <i>Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)</i><br>
 GPA: 88.6/100 Rank: 5/29<br>
 </li>
-</ul>
+
 
 <ul>
 <li>
