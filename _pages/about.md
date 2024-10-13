@@ -29,9 +29,9 @@ Experience
 <i>Bachelor in Engineering Mechanics (Strengthening Basic Disciplines Program)</i><br>
 GPA: 88.6/100 Rank: 5/29<br>
 </li>
-<ul>
 
-<ul>
+
+
 <li>
 <b>Samsung Inc. (SAIT - Samsung Advanced Institute of Technology)</b>, Jun. 2023 - Sep. 2023<br>
 <i>Computer Vision Algorithm Engineer Intern, supervised by M.E. Yunfeng Gong</i><br>
