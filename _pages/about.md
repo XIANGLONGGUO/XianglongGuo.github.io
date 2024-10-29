@@ -41,12 +41,20 @@ Worked on detection models for autonomous driving and accelerated model inferenc
 <li>
 <b>BeiHang University</b>, Sep. 2022 - Present<br>
 <i>Research Assistant</i><br>
+<i>School of Aeronautics Science and Enginner
 Focused on deep learning-based Digital Image Correlation for local displacement and strain measurement.<br>
+</li>
+
+<li>
+<b>National University of Singapore</b>, Oct. 2024 - Present<br>
+<i>Research Assistant</i><br>
+<i>Department of Biomedical Informatics</i><br>
+Focused on the Tokenizer design in large DNA sequence models.<br>
 </li>
 </ul>
 
 
-Awards
+Awards (partial)
 ======
 
 -    First Prize in National Physics Competition for college student in
@@ -66,6 +74,10 @@ Awards
 
 -    Third Prize in The 14th Zhou Peiyuan's Competition of Mechanics for
     College Students in China (2023)
+
+
+Scholarship
+======
 
 -    Study Excellence Scholarship Second Prize (2022 & 2023)
 
