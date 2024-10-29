@@ -41,7 +41,7 @@ Worked on detection models for autonomous driving and accelerated model inferenc
 <li>
 <b>BeiHang University</b>, Sep. 2022 - Present<br>
 <i>Research Assistant</i><br>
-<i>School of Aeronautics Science and Enginner
+<i>School of Aeronautics Science and Enginner</i><br>
 Focused on deep learning-based Digital Image Correlation for local displacement and strain measurement.<br>
 </li>
 
