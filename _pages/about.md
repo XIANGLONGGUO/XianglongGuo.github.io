@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a senior undergraduate student in the School of Aeronautic Science and Engineering at Beijing University of Aeronautics and Astronautics. I am currently working on the research of deep learning-based Digital Image Correlation (DIC) for local displacement measurement. Previously, I worked on the problem of heat haze effects in DIC, exploring defogging methods using both traditional techniques and deep learning.
+I am a senior undergraduate student in the School of Aeronautic Science and Engineering at Beijing University of Aeronautics and Astronautics.
 
 My research interests include:
 * Deep learning-based DIC network for local displacement and strain measurement.
@@ -39,10 +39,17 @@ Worked on detection models for autonomous driving and accelerated model inferenc
 </li>
 
 <li>
-<b>BeiHang University</b>, Sep. 2022 - Present<br>
-<i>Research Assistant</i><br>
-Focused on deep learning-based Digital Image Correlation for local displacement and strain measurement.<br>
+<b>Westlake University</b>, Jan. 2025 - Present<br>
+<i>Research Assistant, advisor:Chang Yu, Ziqing Li</i><br>
+AI for science.<br>
 </li>
+
+<li>
+<b>National University of Singapore</b>, Jan. 2025 - Present<br>
+<i>Research Assistant, advisor: Dianbo Liu</i><br>
+AI for science.<br>
+</li>
+
 </ul>
 
 
