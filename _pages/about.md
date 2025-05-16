@@ -39,7 +39,6 @@ Worked on detection models for autonomous driving and accelerated model inferenc
 </li>
 
 <li>
-<<<<<<< HEAD
 <b>Westlake University</b>, Jan. 2025 - Present<br>
 <i>Research Assistant, advisor:Chang Yu, Ziqing Li</i><br>
 AI for science.<br>
@@ -51,20 +50,7 @@ AI for science.<br>
 AI for science.<br>
 </li>
 
-=======
-<b>BeiHang University</b>, Sep. 2022 - Present<br>
-<i>Research Assistant</i><br>
-<i>School of Aeronautics Science and Enginner</i><br>
-Focused on deep learning-based Digital Image Correlation for local displacement and strain measurement.<br>
-</li>
 
-<li>
-<b>National University of Singapore</b>, Oct. 2024 - Present<br>
-<i>Research Assistant</i><br>
-<i>Department of Biomedical Informatics</i><br>
-Focused on the Tokenizer design in large DNA sequence models.<br>
-</li>
->>>>>>> 606799b6461e7a6d6d199755862bdb3ad29973a8
 </ul>
 
 
